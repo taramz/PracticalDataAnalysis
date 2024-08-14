@@ -1,4 +1,4 @@
-# Practical Data Analysis
+# Data Analysis Portfolio
 
 This repository contains information on all three projects completed during my time in Practical Data Analysis, a course required for my program.
 
